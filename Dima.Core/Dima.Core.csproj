@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Requests\Reports\GetExpensesByCategoryRequest.cs\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="Requests\Reports\GetExpensesByCategoryRequest.cs\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Requests\Reports\GetExpensesByCategoryRequest.cs\**" />
+  </ItemGroup>
+
+</Project>
