@@ -39,6 +39,8 @@ D:\codingProjects\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
 D:\codingProjects\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 D:\codingProjects\Dima\Dima.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 D:\codingProjects\Dima\Dima.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\codingProjects\Dima\Dima.Api\bin\Debug\net8.0\Npgsql.dll
+D:\codingProjects\Dima\Dima.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 D:\codingProjects\Dima\Dima.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\codingProjects\Dima\Dima.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\codingProjects\Dima\Dima.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -129,6 +131,7 @@ D:\codingProjects\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.AssemblyInfo.cs
 D:\codingProjects\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.csproj.CoreCompileInputs.cache
 D:\codingProjects\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.MvcApplicationPartsAssemblyInfo.cs
 D:\codingProjects\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\codingProjects\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.sourcelink.json
 D:\codingProjects\Dima\Dima.Api\obj\Debug\net8.0\staticwebassets.build.json
 D:\codingProjects\Dima\Dima.Api\obj\Debug\net8.0\staticwebassets.development.json
 D:\codingProjects\Dima\Dima.Api\obj\Debug\net8.0\staticwebassets\msbuild.Dima.Api.Microsoft.AspNetCore.StaticWebAssets.props
@@ -143,5 +146,3 @@ D:\codingProjects\Dima\Dima.Api\obj\Debug\net8.0\refint\Dima.Api.dll
 D:\codingProjects\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.pdb
 D:\codingProjects\Dima\Dima.Api\obj\Debug\net8.0\Dima.Api.genruntimeconfig.cache
 D:\codingProjects\Dima\Dima.Api\obj\Debug\net8.0\ref\Dima.Api.dll
-D:\codingProjects\Dima\Dima.Api\bin\Debug\net8.0\Npgsql.dll
-D:\codingProjects\Dima\Dima.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

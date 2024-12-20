@@ -10,6 +10,7 @@ D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\wwwroot\_framework\dotnet.nativ
 D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.wasm
 D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.8.0.8.80cvijctdx.js
 D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.js.map
+D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\wwwroot\_framework\icudt.dat
 D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.wasm
 D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.wasm
 D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.wasm
@@ -319,6 +320,7 @@ D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\wwwroot\_framework\System.Net.H
 D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\wwwroot\_framework\System.Drawing.wasm.gz
 D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Timer.wasm.gz
 D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.TypeExtensions.wasm.gz
+D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\wwwroot\_framework\icudt.dat.gz
 D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\wwwroot\_framework\System.Drawing.Primitives.wasm.gz
 D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Contracts.wasm.gz
 D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.wasm.gz
@@ -633,6 +635,7 @@ D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\dotnet.native.js
 D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\dotnet.native.wasm
 D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\dotnet.runtime.js
 D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\dotnet.runtime.js.map
+D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\icudt.dat
 D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\Dima.Core.dll
 D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\Dima.Core.pdb
 D:\codingProjects\Dima\Dima.Web\obj\Debug\net8.0\Dima.Web.csproj.AssemblyReference.cache
@@ -641,6 +644,7 @@ D:\codingProjects\Dima\Dima.Web\obj\Debug\net8.0\Dima.Web.AssemblyInfoInputs.cac
 D:\codingProjects\Dima\Dima.Web\obj\Debug\net8.0\Dima.Web.AssemblyInfo.cs
 D:\codingProjects\Dima\Dima.Web\obj\Debug\net8.0\Dima.Web.csproj.CoreCompileInputs.cache
 D:\codingProjects\Dima\Dima.Web\obj\Debug\net8.0\Dima.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\codingProjects\Dima\Dima.Web\obj\Debug\net8.0\Dima.Web.sourcelink.json
 D:\codingProjects\Dima\Dima.Web\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Authorization.wasm
 D:\codingProjects\Dima\Dima.Web\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.wasm
 D:\codingProjects\Dima\Dima.Web\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Authorization.wasm
@@ -1060,6 +1064,7 @@ D:\codingProjects\Dima\Dima.Web\obj\Debug\net8.0\compressed\93i67mqfmb.gz
 D:\codingProjects\Dima\Dima.Web\obj\Debug\net8.0\compressed\tcahtmlyz5.gz
 D:\codingProjects\Dima\Dima.Web\obj\Debug\net8.0\compressed\80cvijctdx.gz
 D:\codingProjects\Dima\Dima.Web\obj\Debug\net8.0\compressed\zbvva2wxb6.gz
+D:\codingProjects\Dima\Dima.Web\obj\Debug\net8.0\compressed\i9ox2hfcgp.gz
 D:\codingProjects\Dima\Dima.Web\obj\Debug\net8.0\compressed\nnsd4ww62o.gz
 D:\codingProjects\Dima\Dima.Web\obj\Debug\net8.0\compressed\yyzumvcxzd.gz
 D:\codingProjects\Dima\Dima.Web\obj\Debug\net8.0\compressed\925d2m3q26.gz
@@ -1072,7 +1077,3 @@ D:\codingProjects\Dima\Dima.Web\obj\Debug\net8.0\Dima.Web.dll
 D:\codingProjects\Dima\Dima.Web\obj\Debug\net8.0\refint\Dima.Web.dll
 D:\codingProjects\Dima\Dima.Web\obj\Debug\net8.0\Dima.Web.pdb
 D:\codingProjects\Dima\Dima.Web\obj\Debug\net8.0\ref\Dima.Web.dll
-D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\wwwroot\_framework\icudt.dat
-D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\wwwroot\_framework\icudt.dat.gz
-D:\codingProjects\Dima\Dima.Web\bin\Debug\net8.0\icudt.dat
-D:\codingProjects\Dima\Dima.Web\obj\Debug\net8.0\compressed\i9ox2hfcgp.gz
