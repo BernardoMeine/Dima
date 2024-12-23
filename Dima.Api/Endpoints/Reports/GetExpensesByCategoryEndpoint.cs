@@ -19,7 +19,6 @@ public class GetExpensesByCategoryEndpoint : IEndpoint
 
     private static async Task<IResult> HandleAsync(
         ClaimsPrincipal user,
-        long id,
         IReportHandler handler)
     {
         var request = new GetExpensesByCategoryRequests

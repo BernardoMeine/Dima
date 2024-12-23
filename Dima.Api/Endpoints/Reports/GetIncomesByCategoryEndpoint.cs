@@ -18,7 +18,6 @@ public class GetIncomesByCategoryEndpoint : IEndpoint
 
     private static async Task<IResult> HandleAsync(
         ClaimsPrincipal user,
-        long id,
         IReportHandler handler)
     {
         var request = new GetIncomesByCategoryRequest()
